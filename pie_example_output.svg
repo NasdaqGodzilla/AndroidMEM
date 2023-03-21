@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="400" height="680" >
+<g transform="translate(120,120)">
+<rect x="-90.000000" y="120.000000" width="20" height="20" fill="#22f5cb" />
+<text x="-60.000000" y="135.000000">  9.4 com.ume.browser</text>
+<rect x="-90.000000" y="145.000000" width="20" height="20" fill="#6615cd" />
+<text x="-60.000000" y="160.000000">  8.7 system_server</text>
+<rect x="-90.000000" y="170.000000" width="20" height="20" fill="#a43f4f" />
+<text x="-60.000000" y="185.000000">  6.5 com.android.systemui</text>
+<rect x="-90.000000" y="195.000000" width="20" height="20" fill="#fa87f0" />
+<text x="-60.000000" y="210.000000">  5.6 zte.com.cn.filer</text>
+<rect x="-90.000000" y="220.000000" width="20" height="20" fill="#dfc66a" />
+<text x="-60.000000" y="235.000000">  5.2 com.zte.mifavor.launcher</text>
+<rect x="-90.000000" y="245.000000" width="20" height="20" fill="#388c0b" />
+<text x="-60.000000" y="260.000000">  5.0 com.android.dialer</text>
+<rect x="-90.000000" y="270.000000" width="20" height="20" fill="#9d6c62" />
+<text x="-60.000000" y="285.000000">  4.6 com.sohu.inputmethod.sogou.zte</text>
+<rect x="-90.000000" y="295.000000" width="20" height="20" fill="#c5a82b" />
+<text x="-60.000000" y="310.000000">  4.4 com.android.contacts</text>
+<rect x="-90.000000" y="320.000000" width="20" height="20" fill="#514fb0" />
+<text x="-60.000000" y="335.000000">  4.4 com.android.settings</text>
+<rect x="-90.000000" y="345.000000" width="20" height="20" fill="#1af9cc" />
+<text x="-60.000000" y="360.000000">  4.3 com.tencent.mm</text>
+<rect x="-90.000000" y="370.000000" width="20" height="20" fill="#9c1cc3" />
+<text x="-60.000000" y="385.000000">  4.3 com.zte.mifavor.miboard</text>
+<rect x="-90.000000" y="395.000000" width="20" height="20" fill="#6983d8" />
+<text x="-60.000000" y="410.000000">  4.1 com.google.android.gms.persistent</text>
+<rect x="-90.000000" y="420.000000" width="20" height="20" fill="#372918" />
+<text x="-60.000000" y="435.000000">  3.8 com.android.phone</text>
+<rect x="-90.000000" y="445.000000" width="20" height="20" fill="#86249f" />
+<text x="-60.000000" y="460.000000">  3.7 com.android.gallery3d</text>
+<rect x="-90.000000" y="470.000000" width="20" height="20" fill="#780567" />
+<text x="-60.000000" y="485.000000">  3.6 com.tencent.mm:push</text>
+<path d="M 0 0 100.000000 0.000000 A 100 100 0 0 1 72.407259 68.972378 z" fill="#22f5cb" />
+<path d="M 0 0 72.407259 68.972378 A 100 100 0 0 1 10.506528 99.446533 z" fill="#6615cd" />
+<path d="M 0 0 10.506528 99.446533 A 100 100 0 0 1 -40.870819 91.266512 z" fill="#a43f4f" />
+<path d="M 0 0 -40.870819 91.266512 A 100 100 0 0 1 -76.719978 64.140822 z" fill="#fa87f0" />
+<path d="M 0 0 -76.719978 64.140822 A 100 100 0 0 1 -96.234527 27.183007 z" fill="#dfc66a" />
+<path d="M 0 0 -96.234527 27.183007 A 100 100 0 0 1 -99.162010 -12.918814 z" fill="#388c0b" />
+<path d="M 0 0 -99.162010 -12.918814 A 100 100 0 0 1 -87.661855 -48.118594 z" fill="#9d6c62" />
+<path d="M 0 0 -87.661855 -48.118594 A 100 100 0 0 1 -65.374744 -75.671282 z" fill="#c5a82b" />
+<path d="M 0 0 -65.374744 -75.671282 A 100 100 0 0 1 -34.877441 -93.720670 z" fill="#514fb0" />
+<path d="M 0 0 -34.877441 -93.720670 A 100 100 0 0 1 -0.809680 -99.996722 z" fill="#1af9cc" />
+<path d="M 0 0 -0.809680 -99.996722 A 100 100 0 0 1 33.355243 -94.273155 z" fill="#9c1cc3" />
+<path d="M 0 0 33.355243 -94.273155 A 100 100 0 0 1 62.258504 -78.255215 z" fill="#6983d8" />
+<path d="M 0 0 62.258504 -78.255215 A 100 100 0 0 1 83.034331 -55.725217 z" fill="#372918" />
+<path d="M 0 0 83.034331 -55.725217 A 100 100 0 0 1 95.781732 -28.737775 z" fill="#86249f" />
+<path d="M 0 0 95.781732 -28.737775 A 100 100 0 0 1 100.000000 -0.000000 z" fill="#780567" />
+</g></svg>
